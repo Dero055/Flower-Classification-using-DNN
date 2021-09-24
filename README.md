@@ -1,5 +1,5 @@
-# Flower-Classification-using-DNN
-In this project, I build a DNN model to classify flower, includes: Sunflower, Tulip, Daisy, Rose và Dandelion. 
+# Flower-Classification-using-CNN
+In this project, I build a CNN-based model to classify flowers; includes: Sunflower, Tulip, Daisy, Rose và Dandelion. 
 
 ## Data source:
 https://www.kaggle.com/alxmamaev/flowers-recognition
